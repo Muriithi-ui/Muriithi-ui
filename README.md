@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muriithi-ui
-- 👀 I’m interested in anything TECH
-- 🌱 I’m currently learning JavaScript 
+- 👀 I’m interested in anything concerning web development
+- 🌱 I’m currently learning Tailwind and react/next.js 
 - 💞️ I’m looking to collaborate on anything and everything ...
 - 📫 How to reach me mail: johnmuriithi339@gmail.com...
 
